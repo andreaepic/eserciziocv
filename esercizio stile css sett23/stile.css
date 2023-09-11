@@ -1,0 +1,168 @@
+body {
+    font-family:  'Raleway', sans-serif;
+}
+.header {
+    background-color: rgb(67, 188, 244);
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 4px solid rgb(29, 112, 237);
+    height: 200px;
+    font-size: x-large;
+    position: sticky;
+}
+#capital {
+    text-transform: capitalize;
+    font-size: 0.9rem;
+    padding: 80px;
+    margin-bottom: 70px;  
+}
+
+h1 {
+    color: white;
+    padding-top: 20px;
+    line-height: 35px;
+}
+.span {
+    color: rgb(63, 189, 235);
+    background-color: white;
+}
+#info {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(22, 130, 224);
+    font-size: 2rem;
+    margin-top: 8px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#pres {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(22, 130, 224);
+    font-size: 2rem;
+    margin-bottom: 20px;  
+}
+#imgprof { 
+    border: 10px solid white;
+    outline: 1px solid grey;
+    margin-top: 30px; 
+}
+#figcap {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+address {
+    margin-top: 15px;
+    font-weight: bold;
+    margin-right: 110px;
+}
+a {
+    color: red;
+}
+#about {
+    margin-right: 270px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+#block {
+    font-style: italic;
+    margin: 30px 20px 50px 20px;
+    background-color: lightgray;
+    border-radius: 7px;
+    padding: 4px 2px 32px 14px;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.8;  
+}
+
+.color {
+    color:  rgb(22, 130, 224) ;
+}
+.work {
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    line-height: 1.8;
+    font-size: 0.9rem;
+}
+#form {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(22, 130, 224);
+    font-size: 2rem;
+    margin-bottom: 20px; 
+}
+#comp {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(22, 130, 224);
+    font-size: 2rem;
+    margin-bottom: 20px;   
+}
+h3 {
+    margin-left: 15px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.conseg {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 40px;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+}
+dt {
+    margin-left: 15px;
+    text-decoration: underline;
+}
+dd {
+    margin-left: 30px;
+    font-size: 1.2rem;
+}
+dl {
+    line-height: 1.8;
+}
+#under {
+    background-color:  rgb(22, 130, 224) ;
+    color: white;
+}
+footer {
+    background-color: rgb(61, 59, 59);
+    text-align: center;
+    line-height: 1.8;
+    height: 200px;
+    margin-top: 50px;
+    border-top: 4px solid  rgb(29, 112, 237);
+}
+.print {
+    color: white;
+}
+#yellow {
+    color: yellow;
+    font-style: italic;
+}
+.grigio {
+    color: grey;
+}
+#finale {
+    color: white;
+    margin-top: 30px;
+}
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN */
+
+/* FOOTER */
